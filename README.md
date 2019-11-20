@@ -1,5 +1,5 @@
 ## Heading
-![Archer](image2.jpg)
+![Archer](image1.jpg)
 
 
 ### Markdown
