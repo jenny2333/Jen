@@ -1,4 +1,4 @@
-### Schrödinger equation
-##{\displaystyle i\hbar {\frac {d}{dt}}\vert \Psi (t)\rangle ={\hat {H}}\vert \Psi (t)\rangle }
+### Euler's Identity
+## e^{i\pi }+1=0
 
 
