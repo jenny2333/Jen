@@ -1,4 +1,5 @@
 ## AWS DeepRacer Project
+##### **BY JENNY**
 [1]![AWS](AWS.jpg)
 Program a model or an instruction for the car to run on a specific track(including Oval track; H track; Straight track) in a simulated or real environment.
 ### ***Simper Version of the AWS DeepRacer Reward System*** 
