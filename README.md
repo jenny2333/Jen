@@ -16,6 +16,7 @@ The reward function is achieved by using Python.[3]
 
 [5]![Parameter](track1.png)
 
+>Displacement, in meters, between the vehicle center and the track center.
 The reward function incents and encourages the vehicle to travel safely and speedily to the destination.[3]
 
 [1]:https://itbrief.com.au/story/aws-offers-devs-tiny-autonomous-vehicles-for-machine-learning
