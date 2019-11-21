@@ -20,4 +20,4 @@ The reward function incents and encourages the vehicle to travel safely and spee
 [2]:https://docs.aws.amazon.com/en_pv/deepracer/latest/developerguide/deepracer-how-it-works-action-space.html
 [3]:https://docs.aws.amazon.com/en_pv/deepracer/latest/developerguide/deepracer-basic-concept.html
 [4]:https://docs.aws.amazon.com/en_pv/deepracer/latest/developerguide/deepracer-console-train-evaluate-models.html
-[5]:https://docs.aws.amazon.com/en_pv/deepracer/latest/developerguide/deepracer-reward-function-input.html
+[5]:https://docs.aws.amazon.com/en_pv/deepracer/latest/developerguide/deepracer-reward-function-input.html 
