@@ -12,8 +12,9 @@ For example, the reward function is constructed to keep the vehicle close to the
 The reward function is achieved by using Python.[3]
 ![PROGRESS](Python.png) [4] 
 
-[5]![Parameter](track1.png)
 >As demonstrated in the illustration, if the distance of the vehicle from the centerline is <= 0.1 times the track width, then 1 mark will be granted; if the distance of the vehicle from the centerline is > 3 times the track width, then 0.001 marks will be given. (Marks will accumulate.) The vehicle will then adjust and refine its performance until it achieves a final high score.
+
+[5]![Parameter](track1.png)
 
 The reward function incents and encourages the vehicle to travel safely and speedily to the destination.[3]
 
