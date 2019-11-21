@@ -1,7 +1,7 @@
 ## AWS DeepRacer Project
 ![AWS](DeepRacer.png)
 Program a model or an instruction for the car to run on a specific track(including Oval track; H track; Straight track) in a simulated or real environment.
-## ***Simper Version of the AWS DeepRacer Reward System*** 
+#### ***Simper Version of the AWS DeepRacer Reward System*** 
 ------
 The reward function is an algorithm of a model which guides the vehicles to perform favorably through using the positive or negative numbers to indicate whether the action performed resulted in:
 * A higher postive number-A good outcome
