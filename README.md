@@ -10,5 +10,6 @@ The reward function is an algorithm of a model which guides the vehicles to perf
 For example, the reward function is constructed to keep the vehicle close to the centerline of the track, ensuring they are not running towards the edge of the track. 
 The reward function is achieved by using Python.
 ![PROGRESS](Python.png)
->***As demonstrated in the illustration, if the distance of the vehicle from the centerline is <= 0.1 times the track width, then 1 mark will be granted; if the distance of the vehicle from the centerline is > 3 times the track width, then 0.001 marks will be given. (Marks will accumulate.) The vehicle will then adjust and refine its performance until it achieves a final high score.***
+>As demonstrated in the illustration, if the distance of the vehicle from the centerline is <= 0.1 times the track width, then 1 mark will be granted; if the distance of the vehicle from the centerline is > 3 times the track width, then 0.001 marks will be given. (Marks will accumulate.) The vehicle will then adjust and refine its performance until it achieves a final high score.
+
 The reward function incents and encourages the vehicle to travel safely and speedily to the destination.
