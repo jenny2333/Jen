@@ -26,3 +26,12 @@ The reward function incents and encourages the vehicle to travel safely and spee
 [5]:https://docs.aws.amazon.com/en_pv/deepracer/latest/developerguide/deepracer-reward-function-input.html 
 ### ***References***
 ------
+***AWS 2019, AWS DeepRacer Basic Concepts and Terminology, viewed 24 November 2019,<https://docs.aws.amazon.com/en_pv/deepracer/latest/developerguide/deepracer-basic-concept.html>.***
+***AWS 2019, AWS DeepRacer Action Space and Reward Function, viewed 24 November 2019, <https://docs.aws.amazon.com/en_pv/deepracer/latest/developerguide/deepracer-how-it-works-action-space.html>.***
+##### ***Image:***
+***https://itbrief.com.au/story/aws-offers-devs-tiny-autonomous-vehicles-for-machine-learning
+https://docs.aws.amazon.com/en_pv/deepracer/latest/developerguide/deepracer-console-train-evaluate-models.html
+https://docs.aws.amazon.com/en_pv/deepracer/latest/developerguide/deepracer-reward-function-input.html***
+
+
+
